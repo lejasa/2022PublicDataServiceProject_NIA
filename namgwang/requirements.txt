@@ -39,4 +39,5 @@ gitdb
 tzlocal
 pydeck
 gitpython
+blinker
 streamlit==1.14.0

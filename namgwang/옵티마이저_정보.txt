@@ -1,0 +1,28 @@
+팀명 : 옵티마이저 (Optimizer)
+
+팀장 : 이재상
+팀원 : 우남광, 김도영
+
+프로그램 설명
+- 고령자에게 필요한 거주 지역별 복지 및 건강 증진 시설, 보호기관, 일자리, 문화생활 정보를 제공함
+- 이 streamlit을 통해 고령자의 정보 격차 해소하고자 함
+
+프로그램 실행 방법
+- crawling_data 폴더에 있는 oooo_crawling.ipynb 파일 실행
+- crawling_data 폴더에 있는 oooo_preprocessing.ipynb 파일 실행
+- preprocessing2.ipynb, preprocessing3.ipynb 실행
+- streamlit_app.py 실행
+- cmd창에 streamlit_app.py 파일의 절대 경로 입력
+- python -m streamlit run streamlit_app.py 입력
+- 이메일 입력
+- 로컬 호스트 웹 페이지 개설
+
+퍼블릭 웹 페이지 주소
+https://kkonji-optimizer-streamlit-app-0jwz7l.streamlit.app/
+
+퍼블릭 웹 페이지 작동법
+- 지역 선택
+- 세부지역 선택
+- 실행 버튼 클릭
+- 페이지 선택
+- 정보 출력

@@ -1,8 +1,1 @@
-namgwang/tempor/chimae.csv
-namgwang/tempor/digital.csv
-namgwang/tempor/dolbom.csv
-namgwang/tempor/health.csv
-namgwang/tempor/job.csv
-namgwang/tempor/leisure.csv
-namgwang/tempor/protect.csv
-namgwang/tempor/welfare.csv
+namgwang/tempor/*.csv

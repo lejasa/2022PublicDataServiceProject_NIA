@@ -7,7 +7,7 @@ import streamlit as st
 st.set_page_config(layout="wide")
 
 # 타이틀
-st.title("시니어 프렌드")
+st.title(":older_woman:시니어 프렌드:older_man:")
 # 헤더
 st.header("고령자 복지 및 생활 정보 서비스")
 

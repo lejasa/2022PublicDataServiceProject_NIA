@@ -7,7 +7,7 @@ import streamlit as st
 st.set_page_config(layout="wide")
 
 # 타이틀
-st.image("./image/old_people.png", width=840)
+st.image("./image/senior_friend.png", width=840)
 
 # 헤더
 # st.header("고령자 복지 및 생활 정보 서비스")
